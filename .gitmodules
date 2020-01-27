@@ -1,0 +1,4 @@
+[submodule "products_custom_fields"]
+	path = products_custom_fields
+	url = git@github.com:xmarts/products_custom_fields.git
+	branch = master
